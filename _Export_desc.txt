@@ -1,0 +1,2 @@
+'SOMLibExporter.ipynb' contains the class to export a MiniSOM SOM to SOMLib files, making it possible to import the SOM into SOMToolbox. It contains functions to write .map, .unit and .wgt files.
+It contains examples for exporting our trained SOMs, which we used for creating the visualisations.
